@@ -8,6 +8,9 @@
 <h1>Sistema de encriptação de dados via conexão TCP/IP</h1>
 <p>Este projeto tem como principal funcionalidade, realizar a encriptação de dados atrás do algoritmo RSA.</p>
 
+<h1>IDE Utilizada</h1>
+<p>Intellij</p>
+
 <h2>Funcionalidades</h2>
 <ul>
     <li>Encriptar dados enviados pelo cliente</li>
