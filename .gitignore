@@ -4,10 +4,10 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-ProjetoJavaSecurity/.idea/modules.xml
-ProjetoJavaSecurity/.idea/jarRepositories.xml
-ProjetoJavaSecurity/.idea/compiler.xml
-ProjetoJavaSecurity/.idea/libraries/
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
 *.iws
 *.iml
 *.ipr
