@@ -5,9 +5,6 @@
 <p>Nathaly Oliveira - RM552538</p>
 <p>Caio Boris Andrulis - RM552496</p>
 
-<h1>Link do versionamento em nuvem</h1>
-<p>https://lojabrinquedos-djy5.onrender.com</p>
-
 <h1>Sistema de encriptação de dados via conexão TCP/IP</h1>
 <p>Este projeto tem como principal funcionalidade, realizar a encriptação de dados atrás do algoritmo RSA.</p>
 
