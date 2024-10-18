@@ -17,10 +17,10 @@
 <ul>
     <li>
         <p><strong>Resposta do Cliente:</strong></p>
-        <img src="images/Cliente.png" alt="Resposta Cliente" width="300">
+        <img src="imagens/Cliente.png" alt="Resposta Cliente" width="300">
     </li>
     <li>
         <p><strong>Resposta do Servidor:</strong></p>
-        <img src="images/servidor.png" alt="Resposta Servidor" width="300">
+        <img src="imagens/servidor.png" alt="Resposta Servidor" width="300">
     </li>
 </ul>
